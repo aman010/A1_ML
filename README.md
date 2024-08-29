@@ -11,5 +11,5 @@
 	' localhost:8089'
 
 # please enter the values in the range only
-# Feature eigine is considered as ordinal variable reange more 2500 will not give good predition
+# Feature like engine cc is considered as ordinal variable reange more 2500 will not give good predition
 # Regid linear model has no dependency any null value in feature engeering can lead to no prediction under blending column
