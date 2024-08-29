@@ -1,0 +1,4 @@
+,company,index,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,seats,binned_engine
+0,Maruti,0,2019,7654,Diesel,Individual,Automatic,Second Owner,765,876.0,45,6,4
+1,Skoda,1,2019,8765,Petrol,Dealer,Manual,First Owner,9876,543.0,987,5,4
+2,Skoda,2,2019,8765,Petrol,Dealer,Manual,First Owner,9876,543.0,987,5,4

@@ -1,0 +1,12 @@
+version: '3'
+services:
+  app:
+    image: project/app
+    build:
+      context: .
+      dockerfile: project/
+    ports:
+      - "8089:8089"
+    volumes:
+      - "/data"
+    
